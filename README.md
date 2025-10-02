@@ -6,4 +6,4 @@ Ideal para quienes inician en el mundo del desarrollo frontend.
 ## Authors
 - **Nombre:** Sergio Chona  
 - **Código:** 192613  
-- [Instagram](https://instagram.com/69chch)
+- [Instagram](https://www.instagram.com/serghi_7/)
