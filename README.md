@@ -14,10 +14,7 @@ Ideal para quienes inician en el mundo del desarrollo **frontend**.
 ### Versión Escritorio
 ![Vista escritorio](./preview-desktop.png)
 
-*(Las imágenes `preview-mobile.png` y `preview-desktop.png` deben estar en la carpeta principal del proyecto.  
-Puedes hacer capturas de tu página en el navegador y guardarlas con esos nombres.)*
 
----
 
 ## 👨‍💻 Authors
 - **Nombre:** Sergio Chona  
